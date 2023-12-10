@@ -2,7 +2,7 @@
 
 ## About
 
-- This is development for VSCDE extension for JKCSS css framework
+- This is development of VSCDE extension for JKCSS css framework
 
 ## Releases
 
