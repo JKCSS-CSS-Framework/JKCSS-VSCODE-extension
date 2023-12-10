@@ -1,8 +1,14 @@
 {
-	"jk-btn": {
+	"jkcss": {
 		"description": "Button default",
 		"scope": "",
-		"prefix": "jk-btn",
-		"body": "<button class=\"jk-btn\"></button>"
+		"prefix": "jkcss",
+		"body": "<link rel=\"stylesheet\" href=\"style.css\">"
+	},
+	"": {
+		"description": "Button default",
+		"scope": "",
+		"prefix": "",
+		"body": "<button class=\"\"></button>"
 	},
 }
