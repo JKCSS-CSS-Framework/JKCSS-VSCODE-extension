@@ -1,6 +1,7 @@
 {
   "name": "jkcss",
   "displayName": "JKCSS A CSS framework",
+  "publisher": "JehanKandy",
   "description": "A CSS framework",
   "version": "0.0.1",
   "engines": {
