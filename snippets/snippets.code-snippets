@@ -1,1 +1,8 @@
-{}
+{
+	"jk-btn": {
+		"description": "Button default",
+		"scope": "",
+		"prefix": "jk-btn",
+		"body": "<button class=\"jk-btn\"></button>"
+	},
+}
