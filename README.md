@@ -4,6 +4,10 @@
 
 ## Release
 
+### 1 Version - v1.0.0-Alpha1- 10 December 2023
+
+- initial release
+
 ## Developers
  
  <b>JehanKandy (Founder/Developer)</b>
