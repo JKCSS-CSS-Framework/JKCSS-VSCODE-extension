@@ -2,6 +2,8 @@
 
 ## About
 
+- This is development for VSCDE extension for JKCSS css framework
+
 ## Releases
 
 ### 1 Version - v1.0.0-Alpha1- 10 December 2023
