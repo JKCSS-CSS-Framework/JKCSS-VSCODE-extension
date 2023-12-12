@@ -3,12 +3,12 @@
 		"description": "Button default",
 		"scope": "",
 		"prefix": "jkcss",
-		"body": "<link rel=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.0.0/src/jkcss.min.css\" href=\"style.css\">"
+		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.1.0-alpha1/src/jkcss.css\" integrity=\"sha256-r7jYvjrfuzimBnbEJAiVTpMa/Rrne0dIj7fe+SDnpIM=\" crossorigin=\"anonymous\">"
 	},
-	"jk-btn jk-blue": {
+	"jkbtn jkbtn-blue": {
 		"description": "Button default",
 		"scope": "",
-		"prefix": "jk-btn jk-blue",
-		"body": "<button class=\"jk-btn jk-blue\"></button>"
+		"prefix": "jkbtn jkbtn-blue",
+		"body": "<button class=\"jkbtn jkbtn-blue\"></button>"
 	},
 }
