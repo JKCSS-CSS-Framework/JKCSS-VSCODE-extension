@@ -4,7 +4,7 @@
   "publisher": "JehanKandy",
   "description": "A CSS framework",
   "icon": "jkcss_logo.png",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.74.0"
   },
