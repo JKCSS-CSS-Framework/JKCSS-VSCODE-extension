@@ -10,7 +10,7 @@
 
 - Updating snippets
 - adding all complete class of JKCSS
-- [VScode Marketplace]()
+- [VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=JehanKandy.jkcss)
 
 ### 1 Version - v1.0.0-Alpha1- 10 December 2023
 
