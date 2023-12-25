@@ -17,10 +17,10 @@
 		"prefix": "jkbtn jkbtn-gray",
 		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
 	},
-	"jkbtn jkbtn-gray": {
-		"description": "Button gray",
+	"jkbtn jkbtn-green": {
+		"description": "Button green",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-gray",
-		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
+		"prefix": "jkbtn jkbtn-green",
+		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
 	},
 }
