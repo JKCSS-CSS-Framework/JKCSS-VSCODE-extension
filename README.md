@@ -6,13 +6,13 @@
 
 ## Releases
 
-### 1 Version - v1.0.0 25 December 2023
+###  Version - v1.0.0 25 December 2023
 
 - Updating snippets
 - adding all complete class of JKCSS
 - [VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=JehanKandy.jkcss)
 
-### 1 Version - v1.0.0-Alpha1- 10 December 2023
+###  Version - v1.0.0-Alpha1- 10 December 2023
 
 - initial release
 
