@@ -65,5 +65,17 @@
 		"prefix": "jkbtn jkbtn-red-outline",
 		"body": "<button class=\"jkbtn jkbtn-red-outline\"></button>"
 	},
+	"jkbtn jkbtn-red-outline": {
+		"description": "Button red outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-red-outline",
+		"body": "<button class=\"jkbtn jkbtn-red-outline\"></button>"
+	},
+	"jkbtn jkbtn-red-outline": {
+		"description": "Button red outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-red-outline",
+		"body": "<button class=\"jkbtn jkbtn-red-outline\"></button>"
+	},
 
 }
