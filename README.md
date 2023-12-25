@@ -8,8 +8,14 @@
 
 | Class  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+| jkbtn jkbtn-gray  | Blue color Button  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+| jkbtn jkbtn-blue  | Blue color Button  |
+
 
 ## Releases
 
