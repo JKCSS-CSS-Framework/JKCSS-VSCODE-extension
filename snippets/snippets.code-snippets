@@ -29,10 +29,10 @@
 		"prefix": "jkbtn jkbtn-red",
 		"body": "<button class=\"jkbtn jkbtn-red\"></button>"
 	},
-	"jkbtn jkbtn-green": {
-		"description": "Button green",
+	"jkbtn jkbtn-yellow": {
+		"description": "Button yellow",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-green",
-		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
+		"prefix": "jkbtn jkbtn-yellow",
+		"body": "<button class=\"jkbtn jkbtn-yellow\"></button>"
 	},
 }
