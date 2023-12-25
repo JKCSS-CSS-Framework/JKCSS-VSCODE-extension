@@ -19,12 +19,12 @@
 
 | Class  | Description |
 | ------------- | ------------- |
-| jkbtn jkbtn-blue  | Blue color Button  |
-| jkbtn jkbtn-gray  | Gray color Button  |
-| jkbtn jkbtn-green  | Green color Button  |
-| jkbtn jkbtn-red  | Red color Button  |
-| jkbtn jkbtn-yellow  | Yellow color Button  |
-| jkbtn jkbtn-info  | Light Blue color Button  |
+| jkbtn jkbtn-blue-outline  | Blue color Outline Button  |
+| jkbtn jkbtn-gray-outline  | Gray color Outline Button  |
+| jkbtn jkbtn-green-outline  | Green color Outline Button  |
+| jkbtn jkbtn-red-outline  | Red color Outline Button  |
+| jkbtn jkbtn-yellow-outline  | Yellow color Outline Button  |
+| jkbtn jkbtn-info-outline  | Light Blue color Outline Button  |
 
 
 ## Releases
