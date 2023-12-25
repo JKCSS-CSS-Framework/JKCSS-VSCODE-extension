@@ -23,4 +23,16 @@
 		"prefix": "jkbtn jkbtn-green",
 		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
 	},
+	"jkbtn jkbtn-red": {
+		"description": "Button red",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-red",
+		"body": "<button class=\"jkbtn jkbtn-red\"></button>"
+	},
+	"jkbtn jkbtn-green": {
+		"description": "Button green",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-green",
+		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
+	},
 }
