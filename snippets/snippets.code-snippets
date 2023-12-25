@@ -41,4 +41,29 @@
 		"prefix": "jkbtn jkbtn-info",
 		"body": "<button class=\"jkbtn jkbtn-info\"></button>"
 	},
+	"jkbtn jkbtn-blue-outline": {
+		"description": "Button blue outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-blue-outline",
+		"body": "<button class=\"jkbtn jkbtn-blue-outline\"></button>"
+	},
+	"jkbtn jkbtn-gray-outline": {
+		"description": "Button gray outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-gray-outline",
+		"body": "<button class=\"jkbtn jkbtn-gray-outline\"></button>"
+	},
+	"jkbtn jkbtn-green-outline": {
+		"description": "Button green outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-green-outline",
+		"body": "<button class=\"jkbtn jkbtn-green-outline\"></button>"
+	},
+	"jkbtn jkbtn-red-outline": {
+		"description": "Button red outline",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-red-outline",
+		"body": "<button class=\"jkbtn jkbtn-red-outline\"></button>"
+	},
+
 }
