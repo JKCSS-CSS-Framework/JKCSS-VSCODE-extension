@@ -6,6 +6,11 @@
 
 ## Releases
 
+### 1 Version - v1.0.0 25 December 2023
+
+- Updating snippets
+- adding all complete class of JKCSS
+
 ### 1 Version - v1.0.0-Alpha1- 10 December 2023
 
 - initial release
