@@ -1,16 +1,26 @@
 {
 	"jkcss": {
-		"description": "Button default",
+		"description": "Link",
 		"scope": "",
 		"prefix": "jkcss",
-		"body": [
-			
-		]
+		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.1.0-alpha1/src/110-alpha1/jkcss.min.css\">"
 	},
 	"jkbtn jkbtn-blue": {
-		"description": "Button default",
+		"description": "Button blue",
 		"scope": "",
 		"prefix": "jkbtn jkbtn-blue",
 		"body": "<button class=\"jkbtn jkbtn-blue\"></button>"
+	},
+	"jkbtn jkbtn-gray": {
+		"description": "Button gray",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-gray",
+		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
+	},
+	"jkbtn jkbtn-gray": {
+		"description": "Button gray",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-gray",
+		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
 	},
 }
