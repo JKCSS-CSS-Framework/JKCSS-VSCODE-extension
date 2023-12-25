@@ -3,7 +3,9 @@
 		"description": "Button default",
 		"scope": "",
 		"prefix": "jkcss",
-		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.1.0-alpha1/src/110-alpha1/jkcss.min.css\">"
+		"body": [
+			
+		]
 	},
 	"jkbtn jkbtn-blue": {
 		"description": "Button default",
