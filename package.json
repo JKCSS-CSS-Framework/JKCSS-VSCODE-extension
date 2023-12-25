@@ -4,9 +4,13 @@
   "publisher": "JehanKandy",
   "description": "A CSS framework",
   "icon": "jkcss_logo.png",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JKCSS-CSS-Framework/JKCSS-VSCODE-extension"
   },
   "categories": [
     "Snippets"
