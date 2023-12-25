@@ -35,4 +35,10 @@
 		"prefix": "jkbtn jkbtn-yellow",
 		"body": "<button class=\"jkbtn jkbtn-yellow\"></button>"
 	},
+	"jkbtn jkbtn-info": {
+		"description": "Button info",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-info",
+		"body": "<button class=\"jkbtn jkbtn-info\"></button>"
+	},
 }
