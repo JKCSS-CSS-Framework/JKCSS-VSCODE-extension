@@ -71,11 +71,11 @@
 		"prefix": "jkbtn jkbtn-yellow-outline",
 		"body": "<button class=\"jkbtn jkbtn-yellow-outline\"></button>"
 	},
-	"jkbtn jkbtn-red-outline": {
-		"description": "Button red outline",
+	"jkbtn jkbtn-info-outline": {
+		"description": "Button info outline",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-red-outline",
-		"body": "<button class=\"jkbtn jkbtn-red-outline\"></button>"
+		"prefix": "jkbtn jkbtn-info-outline",
+		"body": "<button class=\"jkbtn jkbtn-info-outline\"></button>"
 	},
 
 }
