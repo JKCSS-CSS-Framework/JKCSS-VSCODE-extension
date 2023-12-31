@@ -96,13 +96,13 @@
 		"body": "<button class=\"jkbtn-sm jkbtn-green\"></button>"
 	},
 	"jkbtn-sm jkbtn-red": {
-		"description": "Button red",
+		"description": "Button Small red",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-red",
 		"body": "<button class=\"jkbtn-sm jkbtn-red\"></button>"
 	},
 	"jkbtn-sm jkbtn-yellow": {
-		"description": "Button yellow",
+		"description": "Button Small yellow",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-yellow",
 		"body": "<button class=\"jkbtn-sm jkbtn-yellow\"></button>"
