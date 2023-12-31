@@ -104,13 +104,13 @@
 	"jkbtn-sm jkbtn-yellow": {
 		"description": "Button yellow",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-yellow",
-		"body": "<button class=\"jkbtn jkbtn-yellow\"></button>"
+		"prefix": "jkbtn-sm jkbtn-yellow",
+		"body": "<button class=\"jkbtn-sm jkbtn-yellow\"></button>"
 	},
 	"jkbtn-sm jkbtn-info": {
 		"description": "Button info",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-info",
-		"body": "<button class=\"jkbtn jkbtn-info\"></button>"
+		"prefix": "jkbtn-sm jkbtn-info",
+		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
 	}
 }
