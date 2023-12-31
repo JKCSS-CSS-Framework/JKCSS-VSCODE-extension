@@ -89,11 +89,11 @@
 		"prefix": "jkbtn-sm jkbtn-gray",
 		"body": "<button class=\"jkbtn-sm jkbtn-gray\"></button>"
 	},
-	"jkbtn jkbtn-green": {
+	"jkbtn-sm jkbtn-green": {
 		"description": "Button green",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-green",
-		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
+		"prefix": "jkbtn-sm jkbtn-green",
+		"body": "<button class=\"jkbtn-sm jkbtn-green\"></button>"
 	},
 	"jkbtn jkbtn-red": {
 		"description": "Button red",
