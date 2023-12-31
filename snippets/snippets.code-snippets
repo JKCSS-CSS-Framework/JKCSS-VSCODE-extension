@@ -80,14 +80,14 @@
 	"jkbtn-sm jkbtn-blue": {
 		"description": "Button blue",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-blue",
-		"body": "<button class=\"jkbtn jkbtn-blue\"></button>"
+		"prefix": "jkbtn-sm jkbtn-blue",
+		"body": "<button class=\"jkbtn-sm jkbtn-blue\"></button>"
 	},
-	"jkbtn jkbtn-gray": {
+	"jkbtn-sm jkbtn-gray": {
 		"description": "Button gray",
 		"scope": "",
-		"prefix": "jkbtn jkbtn-gray",
-		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
+		"prefix": "jkbtn-sm jkbtn-gray",
+		"body": "<button class=\"jkbtn-sm jkbtn-gray\"></button>"
 	},
 	"jkbtn jkbtn-green": {
 		"description": "Button green",
