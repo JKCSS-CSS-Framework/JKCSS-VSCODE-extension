@@ -30,7 +30,7 @@
 
 ## Releases
 
-###  Version - v2.0.0 01 December 2024
+###  Version - v2.0.0 01 January 2024
 
 - framework [JKCSS](https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/)
 - Updating snippets
