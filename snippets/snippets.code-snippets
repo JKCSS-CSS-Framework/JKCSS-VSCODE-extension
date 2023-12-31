@@ -77,4 +77,40 @@
 		"prefix": "jkbtn jkbtn-info-outline",
 		"body": "<button class=\"jkbtn jkbtn-info-outline\"></button>"
 	},
+	"jkbtn-sm jkbtn-blue": {
+		"description": "Button blue",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-blue",
+		"body": "<button class=\"jkbtn jkbtn-blue\"></button>"
+	},
+	"jkbtn jkbtn-gray": {
+		"description": "Button gray",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-gray",
+		"body": "<button class=\"jkbtn jkbtn-gray\"></button>"
+	},
+	"jkbtn jkbtn-green": {
+		"description": "Button green",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-green",
+		"body": "<button class=\"jkbtn jkbtn-green\"></button>"
+	},
+	"jkbtn jkbtn-red": {
+		"description": "Button red",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-red",
+		"body": "<button class=\"jkbtn jkbtn-red\"></button>"
+	},
+	"jkbtn jkbtn-yellow": {
+		"description": "Button yellow",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-yellow",
+		"body": "<button class=\"jkbtn jkbtn-yellow\"></button>"
+	},
+	"jkbtn jkbtn-info": {
+		"description": "Button info",
+		"scope": "",
+		"prefix": "jkbtn jkbtn-info",
+		"body": "<button class=\"jkbtn jkbtn-info\"></button>"
+	}
 }
