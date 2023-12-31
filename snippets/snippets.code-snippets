@@ -78,19 +78,19 @@
 		"body": "<button class=\"jkbtn jkbtn-info-outline\"></button>"
 	},
 	"jkbtn-sm jkbtn-blue": {
-		"description": "Button blue",
+		"description": "Button Small blue",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-blue",
 		"body": "<button class=\"jkbtn-sm jkbtn-blue\"></button>"
 	},
 	"jkbtn-sm jkbtn-gray": {
-		"description": "Button gray",
+		"description": "Button Small gray",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-gray",
 		"body": "<button class=\"jkbtn-sm jkbtn-gray\"></button>"
 	},
 	"jkbtn-sm jkbtn-green": {
-		"description": "Button green",
+		"description": "Button Small green",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-green",
 		"body": "<button class=\"jkbtn-sm jkbtn-green\"></button>"
