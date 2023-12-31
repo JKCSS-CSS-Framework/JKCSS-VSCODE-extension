@@ -108,7 +108,7 @@
 		"body": "<button class=\"jkbtn-sm jkbtn-yellow\"></button>"
 	},
 	"jkbtn-sm jkbtn-info": {
-		"description": "Button info",
+		"description": "Button Small info",
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-info",
 		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
