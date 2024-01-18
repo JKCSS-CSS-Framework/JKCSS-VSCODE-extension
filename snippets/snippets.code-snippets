@@ -113,6 +113,8 @@
 		"prefix": "jkbtn-sm jkbtn-info",
 		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
 	},
+
+
 	"jk-h1": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
@@ -123,30 +125,30 @@
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h2",
-		"body": "<h2 class=\"jk-h1\">h1 JKCSS Heading</h2>"
+		"body": "<h2 class=\"jk-h2\">h1 JKCSS Heading</h2>"
 	},
 	"jk-h3": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h3",
-		"body": "<h3 class=\"jk-h1\">h1 JKCSS Heading</h3>"
+		"body": "<h3 class=\"jk-h3\">h1 JKCSS Heading</h3>"
 	},
 	"jk-h4": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h4",
-		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
+		"body": "<h4 class=\"jk-h4\">h1 JKCSS Heading</h4>"
 	},
 	"jk-h5": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h5",
-		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
+		"body": "<h4 class=\"jk-h5\">h1 JKCSS Heading</h4>"
 	},
 	"jk-h6": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h6",
-		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
+		"body": "<h4 class=\"jk-h6\">h1 JKCSS Heading</h4>"
 	}
 }
