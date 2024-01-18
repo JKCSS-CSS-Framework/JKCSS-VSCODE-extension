@@ -197,6 +197,7 @@
 		"prefix": "line",
 		"body": "<div class=\"line\"></div>"
 	},
+	
 	"rec-1": {
 		"description": "Column 1",
 		"scope": "",
