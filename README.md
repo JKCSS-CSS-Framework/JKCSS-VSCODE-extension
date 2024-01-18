@@ -37,11 +37,11 @@
 | jk-h5  | h5 JKCSS Heading  |
 | jk-h6  | h6 JKCSS Heading  |
 | jk-display-1  | h1 JKCSS Heading  |
-| jk-display-1  | h2.JKCSS Heading  |
-| jk-display-1  | h3 JKCSS Heading  |
-| jk-display-1  | h4 JKCSS Heading  |
-| jk-display-1  | h5 JKCSS Heading  |
-| jk-display-1  | h6 JKCSS Heading  |
+| jk-display-2  | h2.JKCSS Heading  |
+| jk-display-3  | h3 JKCSS Heading  |
+| jk-display-4  | h4 JKCSS Heading  |
+| jk-display-5  | h5 JKCSS Heading  |
+| jk-display-6  | h6 JKCSS Heading  |
 
 
 ## Releases
