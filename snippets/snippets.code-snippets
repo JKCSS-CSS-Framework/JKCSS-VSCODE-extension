@@ -3,7 +3,7 @@
 		"description": "Link",
 		"scope": "",
 		"prefix": "jkcss",
-		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.1.0-alpha1/src/110-alpha1/jkcss.min.css\">"
+		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@3.0.0/src/jkcss.min.css\">"
 	},
 	"jkbtn jkbtn-blue": {
 		"description": "Button blue",
