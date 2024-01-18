@@ -4,6 +4,8 @@
 
 - This is development of VSCDE extension for JKCSS css framework
 
+# How to Use
+
 # Documentation
 
 | Class  | Description |
@@ -61,7 +63,6 @@
 | rec-10 | Column 10 |
 | rec-11 | Column 11 |
 | rec-12 | Column 12 |
-
 
 
 ## Releases
