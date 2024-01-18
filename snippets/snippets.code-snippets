@@ -112,5 +112,11 @@
 		"scope": "",
 		"prefix": "jkbtn-sm jkbtn-info",
 		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
+	},
+	"jkbtn-sm jkbtn-info": {
+		"description": "Button Small info",
+		"scope": "",
+		"prefix": "jkbtn-sm jkbtn-info",
+		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
 	}
 }
