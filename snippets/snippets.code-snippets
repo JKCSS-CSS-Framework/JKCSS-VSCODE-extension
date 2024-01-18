@@ -113,10 +113,10 @@
 		"prefix": "jkbtn-sm jkbtn-info",
 		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
 	},
-	"jkbtn-sm jkbtn-info": {
-		"description": "Button Small info",
+	"jk-h1": {
+		"description": "H1 Heading JKCSS",
 		"scope": "",
-		"prefix": "jkbtn-sm jkbtn-info",
-		"body": "<button class=\"jkbtn-sm jkbtn-info\"></button>"
+		"prefix": "jk-h1",
+		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
 	}
 }
