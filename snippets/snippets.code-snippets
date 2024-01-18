@@ -130,5 +130,11 @@
 		"scope": "",
 		"prefix": "jk-h3",
 		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
+	},
+	"jk-h4": {
+		"description": "H1 Heading JKCSS",
+		"scope": "",
+		"prefix": "jk-h4",
+		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
 	}
 }
