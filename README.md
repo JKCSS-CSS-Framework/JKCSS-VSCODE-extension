@@ -30,12 +30,12 @@
 
 | Class  | Description |
 | ------------- | ------------- |
-| jk-h1  | Blue color Outline Button  |
-| jk-h2  | Gray color Outline Button  |
-| jk-h3  | Green color Outline Button  |
-| jk-h4  | Red color Outline Button  |
-| jk-h5  | Yellow color Outline Button  |
-| jk-h6  | Light Blue color Outline Button  |
+| jk-h1  | h1 JKCSS Heading  |
+| jk-h2  | h2.JKCSS Heading  |
+| jk-h3  | h3 JKCSS Heading  |
+| jk-h4  | h4 JKCSS Heading  |
+| jk-h5  | h5 JKCSS Heading  |
+| jk-h6  | h6 JKCSS Heading  |
 
 
 
