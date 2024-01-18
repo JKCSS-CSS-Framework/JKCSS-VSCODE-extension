@@ -48,7 +48,7 @@
 
 | Class  | Description |
 | ------------- | ------------- |
-| jk-h1  | h1 JKCSS Heading  |
+| line  | Row  |
 | jk-h2  | h2.JKCSS Heading  |
 | jk-h3  | h3 JKCSS Heading  |
 | jk-h4  | h4 JKCSS Heading  |
