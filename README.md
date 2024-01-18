@@ -6,6 +6,11 @@
 
 # How to Use
 
+- start a html file
+- between head tag type `jkcss`
+- then auto automatically add the css link
+- start to develop
+
 # Documentation
 
 | Class  | Description |
