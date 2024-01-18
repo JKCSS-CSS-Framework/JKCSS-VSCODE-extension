@@ -44,6 +44,26 @@
 | jk-display-6  | JK Display 6  |
 
 
+- layouts
+
+| Class  | Description |
+| ------------- | ------------- |
+| jk-h1  | h1 JKCSS Heading  |
+| jk-h2  | h2.JKCSS Heading  |
+| jk-h3  | h3 JKCSS Heading  |
+| jk-h4  | h4 JKCSS Heading  |
+| jk-h5  | h5 JKCSS Heading  |
+| jk-h6  | h6 JKCSS Heading  |
+| jk-display-1  | JK Display 1  |
+| jk-display-2  | JK Display 2  |
+| jk-display-3  | JK Display 3  |
+| jk-display-4  | JK Display 4  |
+| jk-display-5  | JK Display 5  |
+| jk-display-6  | JK Display 6  |
+
+
+
+
 ## Releases
 
 ###  Version - v2.0.0 01 January 2024
