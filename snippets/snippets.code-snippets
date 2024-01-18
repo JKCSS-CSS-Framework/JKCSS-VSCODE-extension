@@ -157,19 +157,19 @@
 		"description": "H6 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-display-1",
-		"body": "<h4 class=\"jk-display-1\">JK Display 1</h4>"
+		"body": "<h1 class=\"jk-display-1\">JK Display 1</h1>"
 	},
 	"jk-display-2": {
 		"description": "H6 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-display-2",
-		"body": "<h4 class=\"jk-display-1\">JK Display 1</h4>"
+		"body": "<h1 class=\"jk-display-1\">JK Display 1</h1>"
 	},
 	"jk-display-3": {
 		"description": "H6 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-display-3",
-		"body": "<h4 class=\"jk-display-1\">JK Display 1</h4>"
+		"body": "<h1 class=\"jk-display-1\">JK Display 1</h1>"
 	},
 	"jk-display-4": {
 		"description": "H6 Heading JKCSS",
