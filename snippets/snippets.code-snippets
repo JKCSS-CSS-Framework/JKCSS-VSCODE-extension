@@ -123,18 +123,30 @@
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h2",
-		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
+		"body": "<h2 class=\"jk-h1\">h1 JKCSS Heading</h2>"
 	},
 	"jk-h3": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h3",
-		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
+		"body": "<h3 class=\"jk-h1\">h1 JKCSS Heading</h3>"
 	},
 	"jk-h4": {
 		"description": "H1 Heading JKCSS",
 		"scope": "",
 		"prefix": "jk-h4",
-		"body": "<h1 class=\"jk-h1\">h1 JKCSS Heading</h1>"
+		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
+	},
+	"jk-h5": {
+		"description": "H1 Heading JKCSS",
+		"scope": "",
+		"prefix": "jk-h5",
+		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
+	},
+	"jk-h6": {
+		"description": "H1 Heading JKCSS",
+		"scope": "",
+		"prefix": "jk-h6",
+		"body": "<h4 class=\"jk-h1\">h1 JKCSS Heading</h4>"
 	}
 }
