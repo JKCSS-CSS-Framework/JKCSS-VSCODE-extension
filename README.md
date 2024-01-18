@@ -72,6 +72,13 @@
 
 ## Releases
 
+###  Version - v3.0.0 18 January 2024
+
+- framework [JKCSS](https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/)
+- Updating snippets
+- adding all complete class of JKCSS Version - [1.1.0 24 December 2023](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework)
+- [VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=JehanKandy.jkcss)
+
 ###  Version - v2.0.0 01 January 2024
 
 - framework [JKCSS](https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/)
