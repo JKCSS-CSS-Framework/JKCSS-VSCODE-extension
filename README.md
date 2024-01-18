@@ -49,7 +49,6 @@
 | Class  | Description |
 | ------------- | ------------- |
 | line  | Row  |
-| jk-display-6  | JK Display 6  |
 | rec-1 | Column 1 |
 | rec-1 | Column 1 |
 | rec-1 | Column 1 |
