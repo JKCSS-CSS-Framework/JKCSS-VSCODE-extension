@@ -197,4 +197,34 @@
 		"prefix": "line",
 		"body": "<div class=\"line\"></div>"
 	},
+	"rec-1": {
+		"description": "Column 1",
+		"scope": "",
+		"prefix": "rec-1",
+		"body": "<div class=\"rec-1\"></div>"
+	},
+	"rec-1": {
+		"description": "Column 1",
+		"scope": "",
+		"prefix": "rec-1",
+		"body": "<div class=\"rec-1\"></div>"
+	},
+	"rec-1": {
+		"description": "Column 1",
+		"scope": "",
+		"prefix": "rec-1",
+		"body": "<div class=\"rec-1\"></div>"
+	},
+	"rec-1": {
+		"description": "Column 1",
+		"scope": "",
+		"prefix": "rec-1",
+		"body": "<div class=\"rec-1\"></div>"
+	},
+	"rec-1": {
+		"description": "Column 1",
+		"scope": "",
+		"prefix": "rec-1",
+		"body": "<div class=\"rec-1\"></div>"
+	},
 }
