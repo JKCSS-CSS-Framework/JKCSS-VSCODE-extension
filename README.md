@@ -30,12 +30,12 @@
 
 | Class  | Description |
 | ------------- | ------------- |
-| jkbtn jkbtn-blue-outline  | Blue color Outline Button  |
-| jkbtn jkbtn-gray-outline  | Gray color Outline Button  |
-| jkbtn jkbtn-green-outline  | Green color Outline Button  |
-| jkbtn jkbtn-red-outline  | Red color Outline Button  |
-| jkbtn jkbtn-yellow-outline  | Yellow color Outline Button  |
-| jkbtn jkbtn-info-outline  | Light Blue color Outline Button  |
+| jk-h1  | Blue color Outline Button  |
+| jk-h2  | Gray color Outline Button  |
+| jk-h3  | Green color Outline Button  |
+| jk-h4  | Red color Outline Button  |
+| jk-h5  | Yellow color Outline Button  |
+| jk-h6  | Light Blue color Outline Button  |
 
 
 
