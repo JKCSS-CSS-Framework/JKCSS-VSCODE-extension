@@ -232,42 +232,42 @@
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-6\"></div>"
 	},
 	"rec-7": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-7\"></div>"
 	},
 	"rec-8": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-8\"></div>"
 	},
 	"rec-9": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-9\"></div>"
 	},
 	"rec-10": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-10\"></div>"
 	},
 	"rec-11": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-11\"></div>"
 	},
 	"rec-12": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-5\"></div>"
+		"body": "<div class=\"rec-12\"></div>"
 	},
 }
