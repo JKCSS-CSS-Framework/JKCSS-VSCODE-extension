@@ -197,7 +197,7 @@
 		"prefix": "line",
 		"body": "<div class=\"line\"></div>"
 	},
-	
+
 	"rec-1": {
 		"description": "Column 1",
 		"scope": "",
@@ -221,6 +221,48 @@
 		"scope": "",
 		"prefix": "rec-4",
 		"body": "<div class=\"rec-4\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
+	},
+	"rec-5": {
+		"description": "Column 5",
+		"scope": "",
+		"prefix": "rec-5",
+		"body": "<div class=\"rec-5\"></div>"
 	},
 	"rec-5": {
 		"description": "Column 5",
