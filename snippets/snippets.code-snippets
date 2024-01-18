@@ -207,24 +207,24 @@
 		"description": "Column 2",
 		"scope": "",
 		"prefix": "rec-2",
-		"body": "<div class=\"rec-1\"></div>"
+		"body": "<div class=\"rec-2\"></div>"
 	},
 	"rec-3": {
 		"description": "Column 3",
 		"scope": "",
 		"prefix": "rec-3",
-		"body": "<div class=\"rec-1\"></div>"
+		"body": "<div class=\"rec-3\"></div>"
 	},
 	"rec-4": {
 		"description": "Column 4",
 		"scope": "",
 		"prefix": "rec-4",
-		"body": "<div class=\"rec-1\"></div>"
+		"body": "<div class=\"rec-4\"></div>"
 	},
 	"rec-5": {
 		"description": "Column 5",
 		"scope": "",
 		"prefix": "rec-5",
-		"body": "<div class=\"rec-1\"></div>"
+		"body": "<div class=\"rec-5\"></div>"
 	},
 }
