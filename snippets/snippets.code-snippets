@@ -192,7 +192,7 @@
 
 
 	"line": {
-		"description": "H6 Heading JKCSS",
+		"description": "Row",
 		"scope": "",
 		"prefix": "line",
 		"body": "<div class=\"line\"></div>"
@@ -203,25 +203,25 @@
 		"prefix": "rec-1",
 		"body": "<div class=\"rec-1\"></div>"
 	},
-	"rec-1": {
+	"rec-2": {
 		"description": "Column 1",
 		"scope": "",
 		"prefix": "rec-1",
 		"body": "<div class=\"rec-1\"></div>"
 	},
-	"rec-1": {
+	"rec-3": {
 		"description": "Column 1",
 		"scope": "",
 		"prefix": "rec-1",
 		"body": "<div class=\"rec-1\"></div>"
 	},
-	"rec-1": {
+	"rec-4": {
 		"description": "Column 1",
 		"scope": "",
 		"prefix": "rec-1",
 		"body": "<div class=\"rec-1\"></div>"
 	},
-	"rec-1": {
+	"rec-5": {
 		"description": "Column 1",
 		"scope": "",
 		"prefix": "rec-1",
